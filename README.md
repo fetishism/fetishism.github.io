@@ -3,11 +3,10 @@
 [![Hugo](https://img.shields.io/badge/hugo-0.96-blue.svg)](https://gohugo.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-
-
 ![amethyst screenshot](https://github.com/64bitpandas/amethyst/blob/e8429e790e25dc6f3318826905f4e4a031d04363/images/screenshot.png)
 
 ## Why Amethyst?
+
 I write most of my [notes](https://notes.bencuan.me) in [Obsidian](https://obsidian.md/). When trying to find a suitable open-source alternative for Obsidian Publish, I couldn't find exactly what I was looking for: a simple, customizable theme with sidebar navigation that supported Obsidian features (like backlinks or LaTeX) in such a way that didn't require me to reformat my notes.
 
 Amethyst is an attempt to deliver this by combining the navigational features of [hugo-book](https://github.com/alex-shpak/hugo-book) with the Obsidian integrations of [quartz](https://github.com/jackyzha0/quartz) to provide a hassle-free place to store and host personal notes or documentation.

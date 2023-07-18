@@ -5,6 +5,7 @@ title: "Troubleshooting and FAQ"
 Still having trouble? Here are a list of common questions and problems people encounter when installing Amethyst.
 
 ### Does Amethyst have Latex support?
+
 Yes! See [LaTeX](features/latex.md) for a brief demo.
 
 ### Can I use \<Obsidian Plugin\> in Amethyst?

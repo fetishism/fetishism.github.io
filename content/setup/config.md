@@ -6,11 +6,13 @@ weight: 0
 ---
 
 # Configuration
+
 Amethyst is designed to be extremely configurable. You can find the bulk of the configuration scattered throughout the repository depending on how in-depth you'd like to get.
 
 The majority of configuration can be found under `config.yaml`. An example, with descriptions for each setting, can be found [here](https://github.com/64bitpandas/amethyst/blob/main/config.yaml).
 
 ### Code Block Titles
+
 To add code block titles with Amethyst:
 
 1. Ensure that code block titles are enabled in the configuration:
@@ -32,6 +34,7 @@ To add code block titles with Amethyst:
 enabled, no errors will occur, and the title attribute will be ignored.
 
 ### HTML Favicons
+
 If you would like to customize the favicons, you 
 can add them to the `data/config.yaml` file. The **default** without any set 
 `favicon` key is:
@@ -71,9 +74,11 @@ information about the current and past standards of favicons, you can read
 attribute, are relative to the `static/` directory.
 
 ### Graph View
+
 To customize the Interactive Graph view, you can poke around `data/graphConfig.yaml`. The default configuration, with descriptions, can be found [here](https://github.com/64bitpandas/amethyst/blob/main/data/graphConfig.yaml).
 
 ### Language Support
+
 [Chinese, Japanese, and Korean support](features/language.md) comes out of the box with Amethyst.
 
 Want to support languages that read from right-to-left (like Arabic)? Hugo (and by proxy, Amethyst) supports this natively.
@@ -92,6 +97,7 @@ languages:
 ```
 
 # Custom Styles
+
 Want to go even more in-depth? You can add custom CSS styling in `assets/_custom.scss`. If you'd like to target specific parts of the site, you can add ids and classes to the HTML partials in `/layouts/partials`. 
 
 ### Changing the Color Scheme
