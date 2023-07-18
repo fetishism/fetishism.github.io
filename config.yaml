@@ -25,13 +25,13 @@ menu:
   #     weight: 10
   after:
     - name: "Github"
-      url: "https://github.com/64bitpandas/amethyst"
+      url: "https://github.com/fetishism/fetishism.github.io"
       weight: 10
 
 params:
 
-  name: Ben Cuan
-  title: 📓 Amethyst
+  name: fetishism
+  title: Fetishism
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'

@@ -7,6 +7,7 @@ title: "Callouts"
 Amethyst supports the same Admonition-callout syntax as Obsidian.
 
 This includes
+
 - 12 Distinct callout types (each with several aliases)
 - Collapsable callouts
 
